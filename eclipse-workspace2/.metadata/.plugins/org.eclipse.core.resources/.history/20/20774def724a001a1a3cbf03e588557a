@@ -1,0 +1,17 @@
+package com.epam.oops_demo;
+
+import java.util.TreeMap;
+
+public class Choclates {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public void sortCholcates(TreeMap<Integer, String> tm) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

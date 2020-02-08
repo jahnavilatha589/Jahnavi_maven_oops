@@ -1,0 +1,10 @@
+package com.epam.oops_demo;
+
+public class Choclates {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

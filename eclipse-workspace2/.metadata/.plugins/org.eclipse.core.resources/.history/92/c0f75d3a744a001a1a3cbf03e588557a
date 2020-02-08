@@ -1,0 +1,21 @@
+package com.epam.oops_demo;
+
+import java.util.ArrayList;
+
+public class Gifts {
+    public static ArrayList<Integer> wgt  = new ArrayList<Integer>();
+	public Gifts() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public String getWeight() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
